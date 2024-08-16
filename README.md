@@ -50,5 +50,5 @@
 <h3 align="center">🫧 Project 🫧</h3>
 
 <div align="center"> 
-  <a href src="https://github.com/Dr-Energy/FrontEnd_PowerForecast"><span style="color:green">🌲닥터에너지🌲</span></a>
+  <a href src="https://github.com/Dr-Energy/FrontEnd_PowerForecast"><span>🌲닥터에너지🌲</span></a>
 </div>
