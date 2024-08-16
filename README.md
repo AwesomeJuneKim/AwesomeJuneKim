@@ -43,8 +43,8 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/vscode-F05033.svg?style=for-the-badge&logo=vscode&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-FC7A57.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/vscode-0075F2.svg?style=for-the-badge&logo=vscode&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-FF8552.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
 </div>
 <br>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /> </div>
