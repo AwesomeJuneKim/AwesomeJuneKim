@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://www.canva.com/design/DAGN_bDu0H8/xwmJClo4BvLdYCYhaBoUBg/edit?utm_content=DAGN_bDu0H8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+  <img src="https://github.com/user-attachments/assets/1771ec94-aff1-4f3e-a280-a408d4c4c45d" />
 </div>
