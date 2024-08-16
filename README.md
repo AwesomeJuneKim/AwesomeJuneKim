@@ -51,5 +51,6 @@
 
 <div align="center"> 
   <a href="https://github.com/Dr-Energy/FrontEnd_PowerForecast">🌲닥터에너지🌲</a>&nbsp
-  <a href="https://github.com/Dr-Energy/FrontEnd_PowerForecast">☁️Air2Air☁️</a>&nbsp
+  <a href="https://github.com/Air2Air-Project/FrontEnd_Air2Air">☁️Air2Air☁️</a>&nbsp
+  <a href="https://github.com/ProjectDasi/FrontEnd">🧑‍💼DreamAgeSenior👩‍💼</a>
 </div>
