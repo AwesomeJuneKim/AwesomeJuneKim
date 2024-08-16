@@ -49,6 +49,6 @@
 <br>
 <h3 align="center">🫧 Project 🫧</h3>
 
-<div align="center">
-  <span style="color:#fff5b1">닥터에너지</span>
+  <span style="color:#fff5b1">
 [닥터에너지](https://github.com/Dr-Energy/FrontEnd_PowerForecast)
+  </span>
