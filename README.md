@@ -41,9 +41,10 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
-<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/vscode-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
 </div>
 <br>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /> </div>
