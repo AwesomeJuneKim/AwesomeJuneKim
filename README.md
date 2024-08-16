@@ -49,6 +49,6 @@
 <br>
 <h3 align="center">🫧 Project 🫧</h3>
 <div align="center">
-  <div align="center" width="100" height="50" style="color:#fff5b1">[닥터에너지](https://github.com/Dr-Energy/FrontEnd_PowerForecast)</div>
+  <span style="color:#fff5b1">[닥터에너지](https://github.com/Dr-Energy/FrontEnd_PowerForecast)</span>
 </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /> </div>
