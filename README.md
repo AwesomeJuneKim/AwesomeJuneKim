@@ -47,4 +47,8 @@
   <img src="https://img.shields.io/badge/jupyter-FF8552.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
 </div>
 <br>
+<h3 align="center">🫧 Project 🫧</h3>
+<div align="center">
+  <div>project</div>
+</div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /> </div>
